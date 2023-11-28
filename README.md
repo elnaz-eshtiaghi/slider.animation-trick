@@ -1,8 +1,8 @@
-# Accordion-trick.11(transform)
+# Slider.animation-trick
 **If you have a lot of information to display on your site, why don't you use my project**
 
 ![Screenshot_2023_10_29-5](https://github.com/elnaz-eshtiaghi/trick.11-transform-/assets/146030206/dba46e19-575e-4610-82ee-22fda00d9691)
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/trick.11-transform-/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/slider.animation-trick/)
 
 - Developed by elnaz eshtiaghi
 
